@@ -36,8 +36,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Deployed
 
-[netlify](https://app.netlify.com/)
-https://anguar-todo-app.netlify.app/
+* [netlify](https://app.netlify.com/)
+* https://anguar-todo-app.netlify.app/
 
 
 
