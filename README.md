@@ -1,11 +1,13 @@
 # Angular-ToDo-App
 
-This project was created with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.4.
-Bootstrap 5
-Css
-Html
-typescript
-JavaScript
+This is a ToDo app with featuers for ramove and add todo.
+This project was created with 
+* [Angular CLI](https://github.com/angular/angular-cli) version 12.1.4.
+* Bootstrap 5
+* Css
+* Html
+* typescript
+* JavaScript
 
 
 ## Development server
