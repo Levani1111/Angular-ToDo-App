@@ -1,6 +1,12 @@
-# ToDoApp
+# Angular-ToDo-App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.4.
+This project was created with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.4.
+Bootstrap 5
+Css
+Html
+typescript
+JavaScript
+
 
 ## Development server
 
