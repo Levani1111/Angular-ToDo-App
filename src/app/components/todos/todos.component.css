@@ -42,12 +42,12 @@
 	width: 100%;
 	max-width: 200px;
 	appearance: none;
-	border: none;
+	/* border: none; */
 	outline: none;
 	background: none;
 
-	background-color: #FE4880;
-	color: #FFF;
+	/* background-color: #0a06fd; */
+	/* color: #FFF; */
 	margin: 15px auto;
 
 	padding: 10px 15px;
